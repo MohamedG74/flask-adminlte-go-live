@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: flask-adminlte
+    name: flask-adminlte-go-live
     plan: starter
     env: python
     region: frankfurt  # region should be same as your database region.
